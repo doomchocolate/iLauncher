@@ -11,5 +11,5 @@
 	path = Server/libs/arrow
 	url = https://github.com/crsmithdev/arrow.git
 [submodule "Server/dateutil"]
-	path = Server/dateutil
+	path = Server/libs/dateutil
 	url = https://github.com/dateutil/dateutil.git
