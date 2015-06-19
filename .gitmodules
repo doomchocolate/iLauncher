@@ -16,6 +16,3 @@
 [submodule "Server/libs/six"]
 	path = Server/libs/six
 	url = https://github.com/kelp404/six.git
-[submodule "Server/libs/iso8601"]
-	path = Server/libs/iso8601
-	url = https://github.com/boxed/iso8601.git
